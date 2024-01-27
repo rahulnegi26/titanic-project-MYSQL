@@ -1,1 +1,1 @@
-# titanic-project-MYSQL
+# titanic Dataset-project-MYSQL
